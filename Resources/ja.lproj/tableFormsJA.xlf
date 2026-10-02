@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="Project/Sources" source-language="en" target-language="ja">
+		<body>
+			<trans-unit id="INFOInput_Title" resname="INFOInput_Title">
+				<source>INFO</source>
+				<target>INFO</target>
+			</trans-unit>
+			<trans-unit id="INFOInput_LabelID" resname="INFOInput_LabelID" xml:space="preserve">
+				<source>ID : </source>
+				<target>ID : </target>
+			</trans-unit>
+			<trans-unit id="INFOOutput_LabelPage" resname="INFOOutput_LabelPage">
+				<source>Page:</source>
+				<target>ページ:</target>
+			</trans-unit>
+			<trans-unit id="INFOOutput_LabelTitle" resname="INFOOutput_LabelTitle">
+				<source>Title</source>
+				<target>タイトル</target>
+			</trans-unit>
+			<trans-unit id="StudentInput_Title" resname="StudentInput_Title">
+				<source>Employee</source>
+				<target>従業員</target>
+			</trans-unit>
+			<trans-unit id="StudentInput_LabelID" resname="StudentInput_LabelID" xml:space="preserve">
+				<source>ID : </source>
+				<target>ID : </target>
+			</trans-unit>
+			<trans-unit id="StudentInput_LabelFirstName" resname="StudentInput_LabelFirstName" xml:space="preserve">
+				<source>firstname : </source>
+				<target>名 : </target>
+			</trans-unit>
+			<trans-unit id="StudentInput_LabelLastName" resname="StudentInput_LabelLastName" xml:space="preserve">
+				<source>lastName : </source>
+				<target>姓 : </target>
+			</trans-unit>
+			<trans-unit id="StudentInput_LabelManagerID" resname="StudentInput_LabelManagerID" xml:space="preserve">
+				<source>managerID : </source>
+				<target>マネージャーID : </target>
+			</trans-unit>
+			<trans-unit id="StudentInput_LabelEmployerID" resname="StudentInput_LabelEmployerID" xml:space="preserve">
+				<source>employerID : </source>
+				<target>雇用主ID : </target>
+			</trans-unit>
+			<trans-unit id="StudentInput_LabelSalary" resname="StudentInput_LabelSalary" xml:space="preserve">
+				<source>salary : </source>
+				<target>給与 : </target>
+			</trans-unit>
+			<trans-unit id="StudentOutput_LabelID" resname="StudentOutput_LabelID" xml:space="preserve">
+				<source>ID : </source>
+				<target>ID : </target>
+			</trans-unit>
+			<trans-unit id="StudentOutput_LabelFirstName" resname="StudentOutput_LabelFirstName" xml:space="preserve">
+				<source>firstname : </source>
+				<target>名 : </target>
+			</trans-unit>
+			<trans-unit id="StudentOutput_LabelLastName" resname="StudentOutput_LabelLastName" xml:space="preserve">
+				<source>lastName : </source>
+				<target>姓 : </target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
