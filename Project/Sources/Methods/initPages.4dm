@@ -1,5 +1,4 @@
-//%attributes = {}
-
+//%attributes = {"invisible":true}
 
 //Business logic related to ORDA
 
@@ -11,4 +10,4 @@ Form:C1466.eatsFish:=ds:C1482.Student.query("food.fish=:1"; "Yes")
 OBJECT SET TITLE:C194(*; "Operator"; "")
 OBJECT SET VISIBLE:C603(*; "Hidden_@"; False:C215)
 
-btnTrace:=False:C215
+Form:C1466.trace:=False:C215

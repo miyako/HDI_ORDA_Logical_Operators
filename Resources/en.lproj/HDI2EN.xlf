@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="Project/Sources/Forms/HDI2/form.4DForm" source-language="en" target-language="en">
+		<body>
+			<trans-unit id="HDI2_HeaderFirstName" resname="HDI2_HeaderFirstName">
+				<source>First name</source>
+				<target>First name</target>
+			</trans-unit>
+			<trans-unit id="HDI2_HeaderLastName" resname="HDI2_HeaderLastName">
+				<source>Last name</source>
+				<target>Last name</target>
+			</trans-unit>
+			<trans-unit id="HDI2_HeaderEatsMeat" resname="HDI2_HeaderEatsMeat">
+				<source>Eats meat</source>
+				<target>Eats meat</target>
+			</trans-unit>
+			<trans-unit id="HDI2_HeaderEatsFish" resname="HDI2_HeaderEatsFish">
+				<source>Eats fish</source>
+				<target>Eats fish</target>
+			</trans-unit>
+			<trans-unit id="HDI2_AllStudents" resname="HDI2_AllStudents">
+				<source>All students</source>
+				<target>All students</target>
+			</trans-unit>
+			<trans-unit id="HDI2_EatsMeat" resname="HDI2_EatsMeat">
+				<source>Eats meat</source>
+				<target>Eats meat</target>
+			</trans-unit>
+			<trans-unit id="HDI2_StudentsEatFish" resname="HDI2_StudentsEatFish">
+				<source>Students who eat fish</source>
+				<target>Students who eat fish</target>
+			</trans-unit>
+			<trans-unit id="HDI2_BtnAnd" resname="HDI2_BtnAnd">
+				<source>Students who eat meat AND fish</source>
+				<target>Students who eat meat AND fish</target>
+			</trans-unit>
+			<trans-unit id="HDI2_BtnOr" resname="HDI2_BtnOr">
+				<source>Students who eat meat OR fish</source>
+				<target>Students who eat meat OR fish</target>
+			</trans-unit>
+			<trans-unit id="HDI2_BtnMinus" resname="HDI2_BtnMinus">
+				<source>Students who eat ONLY meat (and no fish)</source>
+				<target>Students who eat ONLY meat (and no fish)</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Results" resname="HDI2_Results">
+				<source>Results</source>
+				<target>Results</target>
+			</trans-unit>
+			<trans-unit id="HDI2_StudentsEatMeat" resname="HDI2_StudentsEatMeat">
+				<source>Students who eat meat</source>
+				<target>Students who eat meat</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Trace" resname="HDI2_Trace">
+				<source>Trace</source>
+				<target>Trace</target>
+			</trans-unit>
+			<trans-unit id="HDI2_BtnView" resname="HDI2_BtnView">
+				<source>View</source>
+				<target>View</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

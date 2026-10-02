@@ -1,2 +1,2 @@
 //%attributes = {"invisible":true}
-C_LONGINT:C283(00_Start; $1)
+  // all project methods use #DECLARE; no typing entries required

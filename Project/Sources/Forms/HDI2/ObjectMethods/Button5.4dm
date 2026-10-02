@@ -1,7 +1,7 @@
-OBJECT SET TITLE:C194(*; "Operator"; "OR")
+OBJECT SET TITLE:C194(*; "Operator"; Localized string("OperatorOr"))
 OBJECT SET VISIBLE:C603(*; "Hidden_@"; True:C214)
 
-If (btnTrace)
+If (Form:C1466.trace)
 	TRACE:C157
 End if 
 
